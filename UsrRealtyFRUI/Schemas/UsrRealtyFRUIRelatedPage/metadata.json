@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "93be44bd-6034-438b-b144-989f3f993e9d",
+      "A2": "UsrRealtyFRUIRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "cc08ffa5-f474-408d-baa7-fc00f7af88d5",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "5807d3a1-ddf0-486e-9f97-8f486f558509",
+            "PageSchemaUId": "c676402a-e77e-4ca5-bac5-c959c72745d6",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}
