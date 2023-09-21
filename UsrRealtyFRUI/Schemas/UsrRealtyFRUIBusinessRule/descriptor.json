@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4062dc3a-8987-4ba1-a17a-8661e46ef729",
+    "Name": "UsrRealtyFRUIBusinessRule",
+    "ModifiedOnUtc": "\/Date(1695230759000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty FRUI (Business rules)",
+    "DependsOn": []
+  }
+}
