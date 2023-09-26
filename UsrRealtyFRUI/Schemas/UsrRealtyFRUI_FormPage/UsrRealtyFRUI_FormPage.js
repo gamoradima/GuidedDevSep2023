@@ -1,4 +1,3 @@
-/* jshint esversion: 11 */
 define("UsrRealtyFRUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEMA_ARGS*/()/**SCHEMA_ARGS*/ {
 	return {
 		viewConfigDiff: /**SCHEMA_VIEW_CONFIG_DIFF*/[
@@ -88,6 +87,46 @@ define("UsrRealtyFRUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**
 			},
 			{
 				"operation": "insert",
+				"name": "Button_g5qld96",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_g5qld96_caption)#",
+					"color": "primary",
+					"disabled": false,
+					"size": "medium",
+					"iconPosition": "left-icon",
+					"visible": true,
+					"menuItems": [],
+					"clickMode": "menu",
+					"icon": "process-button-icon"
+				},
+				"parentName": "CardToggleContainer",
+				"propertyName": "items",
+				"index": 0
+			},
+			{
+				"operation": "insert",
+				"name": "MenuItem_9jdl301",
+				"values": {
+					"type": "crt.MenuItem",
+					"caption": "#ResourceString(MenuItem_9jdl301_caption)#",
+					"visible": true,
+					"clicked": {
+						"request": "crt.RunBusinessProcessRequest",
+						"params": {
+							"processName": "UsrCalculateAverageRealtyPrice",
+							"processRunType": "ForTheSelectedPage",
+							"recordIdProcessParameterName": "RealtyIdParameter"
+						}
+					},
+					"icon": "calculator-button-icon"
+				},
+				"parentName": "Button_g5qld96",
+				"propertyName": "menuItems",
+				"index": 0
+			},
+			{
+				"operation": "insert",
 				"name": "Button_ilmuwdb",
 				"values": {
 					"type": "crt.Button",
@@ -105,7 +144,7 @@ define("UsrRealtyFRUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**
 				},
 				"parentName": "CardToggleContainer",
 				"propertyName": "items",
-				"index": 0
+				"index": 1
 			},
 			{
 				"operation": "insert",

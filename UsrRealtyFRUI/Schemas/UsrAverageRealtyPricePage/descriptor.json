@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8f737957-d3cc-4716-ba06-2b958150a199",
+    "Name": "UsrAverageRealtyPricePage",
+    "ModifiedOnUtc": "\/Date(1695744622000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Average realty price page"
+  }
+}
