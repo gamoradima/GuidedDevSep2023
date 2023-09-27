@@ -6,7 +6,7 @@
 			<Item Name="LocalizableStrings.addRecord_0yl7fio_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_4lmvmxh_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_dafwhlg_caption.Value" Value="Add new" />
-			<Item Name="LocalizableStrings.Button_g5qld96_caption.Value" Value="Run process" />
+			<Item Name="LocalizableStrings.Button_g5qld96_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.Button_ilmuwdb_caption.Value" Value="Push me!" />
 			<Item Name="LocalizableStrings.ExpansionPanel_njj5kzb_title.Value" Value="Realty visit (FreedomUI)" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_llvizqv_caption.Value" Value="New" />
@@ -16,6 +16,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_t830hu6_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_hopbwhp_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.MenuItem_9jdl301_caption.Value" Value="Calculate average price" />
+			<Item Name="LocalizableStrings.MenuItem_b4skfgl_caption.Value" Value="Run web service" />
 			<Item Name="LocalizableStrings.NumberInput_4obanb6_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.NumberInput_vijivq5_label.Value" Value="Number" />
 		</Items>
