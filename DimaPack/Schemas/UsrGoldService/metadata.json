@@ -1,0 +1,77 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "8b0669ad-6d06-417a-a759-60a03d2816d8",
+      "A2": "UsrGoldService",
+      "A5": "16585066-3c31-44be-9d74-39fba10ab337",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "d11c1248-527d-a879-1b0b-86b1bbd46366",
+      "B8": "8.0.10.4735",
+      "IQ1": "https://link.idbanking.am",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "2bcd5e50-ec56-4466-8bd2-dc6ddf8e213d",
+          "A2": "UsrMethod1",
+          "A3": "8b0669ad-6d06-417a-a759-60a03d2816d8",
+          "A4": "8b0669ad-6d06-417a-a759-60a03d2816d8",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [],
+            "IT2": 1,
+            "IT1": "/api/Rate/Gold"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "0d47280d-c50e-4dbc-a518-a026abd5821f",
+                "A2": "UsrCSList",
+                "IU1": "$.cashSellList",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "8f7fab3e-83e1-44bf-a71c-c9d9d9dea736",
+                    "A2": "UsrCSLWeight",
+                    "IU1": "weight",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "6356e73c-8a3e-4043-bda0-91a16c8c2103",
+                    "A2": "UsrCSLRate",
+                    "IU1": "rate",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8b0669ad-6d06-417a-a759-60a03d2816d8",
+    "Name": "UsrGoldService",
+    "ModifiedOnUtc": "\/Date(1695999593000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "https://link.idbanking.am",
+    "DependsOn": []
+  }
+}
